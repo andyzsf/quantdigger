@@ -116,8 +116,10 @@ for instance:
 .. image:: images/ball1.gif 
 
 The |biohazard| symbol must be used on containers used to dispose of medical
-waste.
+waste. |replace_text| hello
 .. |biohazard| image:: biohazard.png 
+.. |replace_text| replace:: replacement *text*
+
 
 
 Table
